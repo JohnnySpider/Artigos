@@ -1,4 +1,4 @@
-O que é aprendizado por reforço?
+##O que é aprendizado por reforço?
 Durante o treinamento do segundo PS do CIS, estudamos várias formas técnicas de aprendizado supervisionado e não supervisionado. O que difere cada uma delas?
 
 Aprendizado Supervisionado é a técnica na qual o modelo recebe os dados de entrada e quais os parâmetros esperados de sua saída Aprendizado Não Supervisionado tecninca na qual o modelo recebe apenas a sua entrada e descobre qual a saída
